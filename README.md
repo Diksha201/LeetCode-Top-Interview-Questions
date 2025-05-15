@@ -39,6 +39,4 @@ Improve my problem-solving skills
 
 Serve as a resource for others preparing for coding interviews
 
-# Contributing
 
-This is a personal repository, but feel free to fork it, suggest improvements, or share your own solutions by opening a pull request.
